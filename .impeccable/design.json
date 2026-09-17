@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "mode": "persuade",
+  "world": "Solar field and project map",
+  "artifact": "solarfield",
+  "tokens": {
+    "color": {
+      "bg": "#121714",
+      "ink": "#f4f3e7",
+      "muted": "#b1b7a7",
+      "line": "#3e493d",
+      "panel": "#1e281f",
+      "accent": "#f4c744",
+      "inverse": "#f6f2df",
+      "inverseInk": "#121714"
+    },
+    "typography": {
+      "display": "Noto Serif Thai",
+      "body": "Noto Sans Thai",
+      "utility": "system monospace"
+    },
+    "spacing": {
+      "page": "clamp(18px, 5vw, 76px)",
+      "section": "clamp(67px, 10vw, 144px)"
+    },
+    "shape": {
+      "radius": "world-specific",
+      "elevation": "one deliberate surface system"
+    }
+  }
+}
