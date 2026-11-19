@@ -21,6 +21,7 @@ export const site = {
   "status": "locked",
   "design": {
     "projectName": "solo-agency-energy",
+    "productionUrl": "https://solo-agency-energy.vercel.app",
     "archetype": "solarfield",
     "motif": "solarfield",
     "world": "Solar field and project map",
