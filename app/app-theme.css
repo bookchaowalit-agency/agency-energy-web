@@ -1,0 +1,32 @@
+/* Energy's approved palette and compatibility aliases for the shared showcase styles. */
+:root {
+  --color-bg: #121714;
+  --color-surface: #1e281f;
+  --color-fg: #f4f3e7;
+  --color-fg-muted: #b1b7a7;
+  --color-accent: #f4c744;
+  --color-accent-fg: #121714;
+  --color-border: #3e493d;
+  --color-focus: #f4c744;
+
+  --font-sans: var(--font-sans-thai), Arial, sans-serif;
+  --font-serif: var(--font-serif-thai), Georgia, 'Times New Roman', serif;
+  --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+  --leading-thai-heading: 1.35;
+
+  /* Legacy role names used by the shared visual system. */
+  --bg: var(--color-bg);
+  --ink: var(--color-fg);
+  --muted: var(--color-fg-muted);
+  --line: var(--color-border);
+  --panel: var(--color-surface);
+  --accent: var(--color-accent);
+  --inverse: #f6f2df;
+  --inverse-ink: #121714;
+  --sans: var(--font-sans);
+  --serif: var(--font-serif);
+  --mono: var(--font-mono);
+  --display: var(--serif);
+  --focus: var(--color-focus);
+  --accent-text: var(--color-accent);
+}
